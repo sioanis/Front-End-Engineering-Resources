@@ -17,12 +17,8 @@ Choose your data structures wisely.
 
 [CSS with superpowers](http://sass-lang.com/)
 
-## JS:
-[Eloquent Javascript](http://eloquentjavascript.net/)
-
-[JS Books Revolunet](http://jsbooks.revolunet.com/)
-
 ## JS Algorithms: 
+[Eloquent Javascript](http://eloquentjavascript.net/)
 [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Regex Fun:
