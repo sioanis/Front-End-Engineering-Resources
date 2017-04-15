@@ -34,13 +34,3 @@ Choose your data structures wisely.
 
 #### Regex Fun:
 [Regex Golf](https://alf.nu/RegexGolf)
-
-### Placeholders: 
-[Lorem Ipsum](http://lipsum.com)
-
-[Placehold.it](http://placehold.it)
-
-### Playgrounds:
-[CodePen](codepen.io)
-
-[JS Fiddle](jsfiddle.net)
