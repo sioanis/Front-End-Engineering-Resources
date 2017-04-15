@@ -9,7 +9,7 @@ File of infinite knowledge (wip). Choose your data structures wisely.
 ### Compatibility:
 [Can I use?](http://caniuse.com/)
 
-### Time-Saving Frameworks:
+### Useful Frameworks:
 #### Mobile:
 [React Native](https://facebook.github.io/react-native/)
 #### Build Process:
