@@ -18,7 +18,7 @@
 ## JS:
 [Eloquent Javascript](http://eloquentjavascript.net/)
 
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+[JS Books Revolunet](http://jsbooks.revolunet.com/)
 
 ## JS Algorithms: 
 [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
