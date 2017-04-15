@@ -1,4 +1,4 @@
-# Front End Engineering Resources - open source :D
+# Front End Engineering Resources - all open source
 File of infinite knowledge (wip). Choose your data structures wisely. 
 
 ### Tools:
