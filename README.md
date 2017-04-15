@@ -4,7 +4,9 @@ File of infinite knowledge (wip). Where client-side says hello to server-side.
 Choose your data structures wisely.
 
 ### Tools:
-[Chrome Dev Tools](https://developer.chrome.com/devtools) - "The Chrome Developer Tools (DevTools for short), are a set of web authoring and debugging tools built into Google Chrome."
+[Chrome Dev Tools](https://developer.chrome.com/devtools) - Built into chrome.
+
+[React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) - React JS debugging tools.
 
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) - Analyze what other sites are using. 
 
