@@ -1,5 +1,7 @@
 # Front End Engineering Resources - Open Source
-File of infinite knowledge (wip). Choose your data structures wisely. 
+File of infinite knowledge (wip). Where client-side says hello to server-side. 
+
+Choose your data structures wisely.
 
 ### Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools)
