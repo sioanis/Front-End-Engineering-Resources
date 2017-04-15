@@ -1,6 +1,6 @@
 # Front End Engineering Resources (open source)
 
-I will keep updating this useful file of infinite knowledge. Choose your data structures wisely. 
+I will keep updating this file of infinite knowledge. Choose your data structures wisely. 
 
 ### Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools)
