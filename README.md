@@ -9,6 +9,14 @@ File of infinite knowledge (wip). Choose your data structures wisely.
 ### Compatibility:
 [Can I use?](http://caniuse.com/)
 
+### Time-Saving Frameworks:
+#### Mobile:
+[React Native](https://facebook.github.io/react-native/)
+#### Build Process:
+[Node + NPM](https://www.npmjs.com/)
+#### Data Visualization: 
+[D3.js](https://github.com/d3/d3)
+
 ### Markup:
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
@@ -28,14 +36,6 @@ File of infinite knowledge (wip). Choose your data structures wisely.
 
 #### Regex Fun:
 [Regex Golf](https://alf.nu/RegexGolf)
-
-### Time-Saving Frameworks:
-#### Mobile:
-[React Native](https://facebook.github.io/react-native/)
-#### Build Process:
-[Node + NPM](https://www.npmjs.com/)
-#### Data Visualization: 
-[D3.js](https://github.com/d3/d3)
 
 ### Placeholders: 
 [Lorem Ipsum](http://lipsum.com)
