@@ -19,6 +19,7 @@ Choose your data structures wisely.
 
 ## JS Algorithms: 
 [Eloquent Javascript](http://eloquentjavascript.net/)
+
 [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Regex Fun:
