@@ -1,4 +1,4 @@
-# Front End Engineering Resources
+# Front End Engineering Resources (open source)
 
 ## Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools)
