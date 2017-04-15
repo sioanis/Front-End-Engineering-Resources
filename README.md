@@ -1,5 +1,7 @@
 # Front End Engineering Resources (open source)
 
+Choose your data structures wisely. 
+
 ## Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools)
 
