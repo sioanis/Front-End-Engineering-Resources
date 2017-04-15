@@ -4,16 +4,18 @@ File of infinite knowledge (wip). Where client-side says hello to server-side.
 Choose your data structures wisely.
 
 ### Tools:
-[Chrome Dev Tools](https://developer.chrome.com/devtools)
+[Chrome Dev Tools](https://developer.chrome.com/devtools) - "The Chrome Developer Tools (DevTools for short), are a set of web authoring and debugging tools built into Google Chrome."
 
-[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) - Analyze what other sites are using. 
 
-[Git Kraken](https://www.gitkraken.com/)
+[Git Kraken](https://www.gitkraken.com/) - Git dat GUI for free. 
 
 ### Compatibility:
 [Can I use?](http://caniuse.com/)
 
 ### Useful Frameworks:
+#### UI Building: 
+[React](https://facebook.github.io/react/)
 #### Mobile:
 [React Native](https://facebook.github.io/react-native/)
 #### Build Process:
@@ -21,7 +23,7 @@ Choose your data structures wisely.
 #### Data Visualization: 
 [D3.js](https://github.com/d3/d3)
 
-### Markup:
+### Markup Reading:
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
