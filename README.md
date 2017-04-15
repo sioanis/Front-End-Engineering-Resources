@@ -17,10 +17,14 @@ Choose your data structures wisely.
 
 [CSS with superpowers](http://sass-lang.com/)
 
-## JS Algorithms: 
+## Javascript Fun: 
 [Eloquent Javascript](http://eloquentjavascript.net/)
 
 [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+[Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+
+[ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 
 ## Regex Fun:
 [Regex Golf](https://alf.nu/RegexGolf)
