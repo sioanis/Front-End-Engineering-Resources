@@ -15,16 +15,6 @@ Choose your data structures wisely.
 ### Compatibility:
 [Can I use?](http://caniuse.com/)
 
-### Useful Frameworks:
-#### UI Building: 
-[React](https://facebook.github.io/react/)
-#### Mobile:
-[React Native](https://facebook.github.io/react-native/)
-#### Build Process:
-[Node + NPM](https://www.npmjs.com/)
-#### Data Visualization: 
-[D3.js](https://github.com/d3/d3)
-
 ### Markup Reading:
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
