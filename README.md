@@ -1,23 +1,24 @@
 # Front End Engineering Resources (open source)
 
-Choose your data structures wisely. 
+Choose your data structures wisely. Will keep updating this useful file of infinite knowledge.
 
-## Tools:
+### Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools)
 
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 
-## Compatibility:
+### Compatibility:
 [Can I use?](http://caniuse.com/)
 
-## Markup:
+### Markup:
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
+[Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 [CSS with superpowers](http://sass-lang.com/)
 
-## Javascript Fun: 
 [Eloquent Javascript](http://eloquentjavascript.net/)
 
 [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -26,15 +27,21 @@ Choose your data structures wisely.
 
 [ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 
-## Regex Fun:
+#### Regex Fun:
 [Regex Golf](https://alf.nu/RegexGolf)
 
-## Placeholders: 
+### Frameworks
+#### Build Process:
+[Node + NPM](https://www.npmjs.com/)
+#### Data Visualization: 
+[D3.js](https://github.com/d3/d3)
+
+### Placeholders: 
 [Lorem Ipsum](http://lipsum.com)
 
 [Placehold.it](http://placehold.it)
 
-## Playgrounds:
+### Playgrounds:
 [CodePen](codepen.io)
 
 [JS Fiddle](jsfiddle.net)
