@@ -6,6 +6,8 @@ File of infinite knowledge (wip). Choose your data structures wisely.
 
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
 
+[Git Kraken](https://www.gitkraken.com/)
+
 ### Compatibility:
 [Can I use?](http://caniuse.com/)
 
