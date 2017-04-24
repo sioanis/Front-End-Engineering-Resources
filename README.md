@@ -1,5 +1,7 @@
 # Front End Engineering Resources
-Open source. File of infinite knowledge (wip). Where client-side says hello to server-side. A great engineer knows how to strike the right balance between runtime, space, implementation time, maintainability, and readability. Choose your data structures wisely.
+Open source. File of infinite knowledge (wip). Where client-side says hello to server-side. 
+
+A great engineer knows how to strike the right balance between runtime, space, implementation time, maintainability, and readability. Choose your data structures wisely.
 
 ### Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools) - Built into chrome.
