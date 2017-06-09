@@ -13,6 +13,11 @@ A great engineer knows how to strike the right balance between runtime, space, i
 ### Compatibility:
 [Can I use?](http://caniuse.com/)
 
+### Placeholders:
+[Image Placeholder](https://placehold.iyt)
+
+[JSON Placeholder](http://jsonplaceholder.typicode.com/)
+
 ### Markup Reading:
 [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
@@ -31,11 +36,6 @@ A great engineer knows how to strike the right balance between runtime, space, i
 [ES6 Features](http://es6-features.org/)
 
 [ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
-
-### Placeholders:
-[Image Placeholder](https://placehold.iyt)
-
-[JSON Placeholder](http://jsonplaceholder.typicode.com/)
 
 ### Regex Fun:
 [Regex Golf](https://alf.nu/RegexGolf)    
