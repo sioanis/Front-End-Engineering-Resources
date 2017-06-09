@@ -37,7 +37,7 @@ A great engineer knows how to strike the right balance between runtime, space, i
 
 [JSON Placeholder](http://jsonplaceholder.typicode.com/)
 
-#### Regex Fun:
+### Regex Fun:
 [Regex Golf](https://alf.nu/RegexGolf)    
 
 
