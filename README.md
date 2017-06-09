@@ -1,5 +1,10 @@
 # Front End Engineering Resources
-A great engineer knows how to strike the right balance between runtime, space, implementation time, maintainability, and readability. Choose your data structures wisely.
+A great engineer knows how to strike the right balance between runtime, space, implementation time, maintainability, and readability. 
+
+### Web Placeholders:
+[Placehold.it](https://placehold.iyt)
+
+[JSON Placeholder](http://jsonplaceholder.typicode.com/)
 
 ### Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools) - Built into chrome.
@@ -31,4 +36,6 @@ A great engineer knows how to strike the right balance between runtime, space, i
 [ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 
 #### Regex Fun:
-[Regex Golf](https://alf.nu/RegexGolf)
+[Regex Golf](https://alf.nu/RegexGolf)    
+
+
