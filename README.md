@@ -1,11 +1,6 @@
 # Front End Engineering Resources
 A great engineer knows how to strike the right balance between runtime, space, implementation time, maintainability, and readability. 
 
-### Web Placeholders:
-[Placehold.it](https://placehold.iyt)
-
-[JSON Placeholder](http://jsonplaceholder.typicode.com/)
-
 ### Tools:
 [Chrome Dev Tools](https://developer.chrome.com/devtools) - Built into chrome.
 
@@ -33,7 +28,14 @@ A great engineer knows how to strike the right balance between runtime, space, i
 
 [Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
+[ES6 Features](http://es6-features.org/)
+
 [ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
+
+### Placeholders:
+[Image Placeholder](https://placehold.iyt)
+
+[JSON Placeholder](http://jsonplaceholder.typicode.com/)
 
 #### Regex Fun:
 [Regex Golf](https://alf.nu/RegexGolf)    
